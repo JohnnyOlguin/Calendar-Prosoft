@@ -1,5 +1,4 @@
-# Calendar-Prosoft
-Small Application from Prosoft
+Small Application  
 
 Starting the work:  21:14
 
